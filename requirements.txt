@@ -1,0 +1,9 @@
+boto3
+streamlit
+pandas
+python-dotenv
+openpyxl
+fpdf
+altair
+requests
+plotly

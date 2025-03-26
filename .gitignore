@@ -1,0 +1,17 @@
+
+# Virtual environment
+venv/
+.venv
+.env
+__pycache__/
+*.pyc
+
+# Output files
+aws_billing_report.pdf
+aws_billing_report.csv
+
+# OS files
+.DS_Store
+
+# Streamlit config cache
+.streamlit/
